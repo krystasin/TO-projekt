@@ -1,0 +1,56 @@
+header{
+
+    text-transform: uppercase;
+    padding: 0 0 0 20px;
+    font-size: 16px;
+    color: white;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color:#09814a;
+
+}
+ul{
+
+    list-style-type: none;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+.navLi{
+    display: inline-block;
+    padding: 10px 0;
+}
+.navLI:hover{
+    background-color: black;
+}
+.navUl{
+    margin: 0;
+    padding: 0;
+
+}
+.navLi a{
+    padding: 10px 17px;
+}
+
+
+.nav-user{
+    align-self: flex-end;
+    /*background-color: #bb33bb;*/
+}
+
+.userLi{
+    padding: 10px;
+}
+
+
+header a:visited {
+    color: white;
+}
+

@@ -1,0 +1,6 @@
+
+
+*.idea
+*.vsc
+public/uploads/
+config.php
