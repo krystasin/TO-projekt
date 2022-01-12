@@ -5,7 +5,7 @@ require_once __DIR__ . '/../helpers/LoginMenager.php';
 require_once __DIR__ . '/../repository/DataRepository.php';
 
 
-class DataController extends AppController
+class ScrapeController extends AppController
 {
     private $DataRepo;
 

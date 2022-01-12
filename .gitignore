@@ -1,6 +1,5 @@
-
-
 *.idea
 *.vsc
-public/uploads/
+*.vscode
+
 config.php
